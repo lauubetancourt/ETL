@@ -1,0 +1,15 @@
+ORIGEN:
+  drivername: postgresql
+  host: localhost
+  port: 5432
+  user: tu_usuario
+  password: tu_contraseña
+  dbname: nombre_bd
+
+BODEGA:
+  drivername: postgresql
+  host: localhost
+  port: 5432
+  user: tu_usuario
+  password: tu_contraseña
+  dbname: bodega_datos
